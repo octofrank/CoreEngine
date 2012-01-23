@@ -40,4 +40,6 @@ group :test do
   #gem 'turn', :require => false
   gem 'rspec-rails'
   gem 'webrat'
+  gem 'autotest'
+  gem 'spork'
 end
